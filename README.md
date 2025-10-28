@@ -146,7 +146,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Tamaghna Sarkar**
 - GitHub: [@Karn2898](https://github.com/Karn2898)
-- LinkedIn: [Connect with me](https://linkedin.com/in/your-profile)
+- LinkedIn: [Tamaghna Sarkar](https://www.linkedin.com/in/tamaghna-sarkar-20a9a5295/)
 - Email: tamaghna51@gmail.com
 
 ## 🙏 Acknowledgments
